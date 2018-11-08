@@ -2216,7 +2216,7 @@ p .fancy-text {
     height: auto
 }
 
-.btn-quickview {
+/* .btn-quickview {
     display: inline-flex;
     align-items: center;
     font: 400 1.2rem/1 "Poppins", sans-serif;
@@ -2242,7 +2242,7 @@ p .fancy-text {
     right: 1rem;
     top: 0
 }
-
+*/
 .product:hover .btn-quickview {
     visibility: visible;
     opacity: 1
